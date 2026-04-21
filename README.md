@@ -9,7 +9,7 @@ strukturierte Outputs und Evidence-Erzeugung
 
 Der Schwerpunkt liegt nicht auf Design oder Tools, sondern auf der Umsetzung stabiler, nachvollziehbarer Systeme.
 
-🔧 Inhalt
+Inhalt
 
 Das Portfolio zeigt vier exemplarische Systeme:
 
@@ -29,7 +29,7 @@ Erstellung strukturierter Outputs (Manifest, HTML, PDF) zur Weiterverwendung und
 
 Frontend als strukturierter Einstiegspunkt in nachgelagerte Systemprozesse.
 
-🎯 Ziel
+Ziel
 
 Das Portfolio soll zeigen:
 
@@ -37,11 +37,13 @@ Verständnis für Datenfluss und Systemlogik
 strukturierte Verarbeitung von Eingaben
 Trennung von Verarbeitung, Validierung und Output
 Umsetzung in realen, nicht idealen Umgebungen
-⚙️ Technischer Aufbau
+
+Technischer Aufbau
 Statische Website (HTML, CSS, JS)
 Fokus auf Klarheit und Lesbarkeit
 Keine Framework-Abhängigkeiten
-📌 Hinweis
+
+Hinweis
 
 Alle gezeigten Beispiele sind abstrahiert und anonymisiert.
 Der Fokus liegt auf der Systemlogik und technischen Umsetzung, nicht auf spezifischen Kundenkontexten.

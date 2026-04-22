@@ -370,6 +370,11 @@ figure {
     border-radius: var(--radius-sm);
 }
 
+.case-block:last-child {
+    border-color: rgba(31, 58, 95, 0.28);
+    background: linear-gradient(180deg, rgba(31, 58, 95, 0.04), rgba(251, 250, 246, 0.96));
+}
+
 .case-block h4 {
     margin-bottom: 10px;
     font-size: 0.95rem;
